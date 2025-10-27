@@ -1,5 +1,5 @@
 # SBO
-Shock Breakout Code
+Shock Breakout Code:  O# (O4939)
 
 This code assumes a distribution of ejecta velocities and then calculates the emission as a function of time for the velocities including relativistic corrections.  
 Many of the parameters are hard coded - my hope is that we make this less so with time.
